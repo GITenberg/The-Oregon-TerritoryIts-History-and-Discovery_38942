@@ -1,0 +1,33 @@
+_repo: The-Oregon-TerritoryIts-History-and-Discovery_38942
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Twiss, Travers
+    alias: Corvinus
+    birthdate: 1809
+    deathdate: 1897
+    gutenberg_agent_id: '39728'
+    url: http://www.gutenberg.org/2009/agents/39728
+description: ''
+gutenberg_issued: '2012-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38942'
+  lccn: '07030354'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Foreign relations -- United States'
+- !lcsh 'Oregon Territory -- History'
+- !lcsh 'Oregon question'
+- !lcc 'F850.5'
+- !lcsh 'Oregon -- Description and travel'
+- !lcsh 'United States -- Foreign relations -- Great Britain'
+- !lcsh 'Northwest boundary of the United States'
+title: The Oregon Territory, Its History and Discovery
+url: http://www.gutenberg.org/ebooks/38942
