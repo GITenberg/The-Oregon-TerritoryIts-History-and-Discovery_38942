@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '39728'
     url: http://www.gutenberg.org/2009/agents/39728
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38942#The-Oregon-TerritoryIts-History-and-Discovery
 gutenberg_issued: '2012-02-21'
 gutenberg_type: Text
 identifiers:
